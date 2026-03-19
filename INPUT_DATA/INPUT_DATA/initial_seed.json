@@ -1,0 +1,10 @@
+﻿{
+  "wasteEntries": [
+    {"householdName": "Sabio Family", "wasteType": "Food", "wasteAmount": 2.5, "date": "2026-03-15"},
+    {"householdName": "Manalili Residence", "wasteType": "Plastic", "wasteAmount": 1.2, "date": "2026-03-16"},
+    {"householdName": "Gamao Household", "wasteType": "Paper", "wasteAmount": 0.8, "date": "2026-03-17"},
+    {"householdName": "Quilang Family", "wasteType": "Food", "wasteAmount": 3.0, "date": "2026-03-18"},
+    {"householdName": "Sabio Family", "wasteType": "Plastic", "wasteAmount": 1.5, "date": "2026-03-18"},
+    {"householdName": "Manalili Residence", "wasteType": "Paper", "wasteAmount": 0.5, "date": "2026-03-19"}
+  ]
+}
