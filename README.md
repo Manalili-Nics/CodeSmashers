@@ -7,6 +7,7 @@ The Smart Waste Management System is proudly aligned with UN Sustainable Develop
 🌍 The Global Challenge
 According to the World Bank, global waste generation is expected to reach 3.4 billion tons by 2050 – a 70% increase from current levels. Developing countries face the greatest challenges in managing this waste effectively, leading to:
 
+
 🏭 Environmental pollution and ecosystem degradation
 
 💰 Economic losses from unrecovered resources
@@ -14,6 +15,7 @@ According to the World Bank, global waste generation is expected to reach 3.4 bi
 🏥 Public health risks from improper waste disposal
 
 📉 Inefficient resource utilization
+
 
 
 💡 Our Solution's Impact
