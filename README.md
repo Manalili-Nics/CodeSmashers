@@ -1,12 +1,12 @@
 # Smart Waste Management System - SDG 12: Responsible Consumption and Production
 
 ## 📌 SDG 12 Justification
+SDG 12: Responsible Consumption and Production
 Our Commitment to the United Nations Sustainable Development Goals
 The Smart Waste Management System is proudly aligned with UN Sustainable Development Goal 12: "Ensure sustainable consumption and production patterns." This goal calls for urgent action to reduce our ecological footprint by changing how we produce, consume, and dispose of resources.
 
 🌍 The Global Challenge
 According to the World Bank, global waste generation is expected to reach 3.4 billion tons by 2050 – a 70% increase from current levels. Developing countries face the greatest challenges in managing this waste effectively, leading to:
-
 
 🏭 Environmental pollution and ecosystem degradation
 
@@ -17,13 +17,12 @@ According to the World Bank, global waste generation is expected to reach 3.4 bi
 📉 Inefficient resource utilization
 
 
-
-
 💡 Our Solution's Impact
 SDG Target	How Our System Addresses It
 12.5: Substantially reduce waste generation through prevention, reduction, recycling and reuse	Enables households to track waste patterns, encouraging mindful consumption and waste reduction
 12.8: Ensure people have relevant information and awareness for sustainable development	Provides real-time data and reports that educate users about their waste footprint
 12.A: Support developing countries to strengthen scientific and technological capacity	Digitizes manual waste tracking, making data collection accessible and efficient
+
 📊 Measurable Contributions
 Through our system, users can:
 
@@ -34,6 +33,8 @@ Through our system, users can:
 ✅ Report on progress with downloadable CSV data for further analysis
 
 ✅ Engage communities in collective waste reduction efforts
+
+
 
 
 ---
