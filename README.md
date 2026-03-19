@@ -48,6 +48,9 @@ A Windows Forms application that helps households track, monitor, and analyze th
 - Knowledge base for waste management education
 - Community forum for sharing tips
 
+
+The Smart Waste Management System is a Windows Forms application designed to digitize and streamline household waste tracking. It provides an intuitive interface for logging waste entries, real-time calculation of total waste collected, and comprehensive reporting features including CSV export. Built with a clean 3-tier architecture, the system ensures data integrity through SQLite database integration while maintaining user-friendly experience through responsive UI design. This project aims to empower individuals and communities to make data-driven decisions in their waste reduction efforts, contributing to a more sustainable future.
+
 ---
 
 ## 🛠️ Installation Guide
