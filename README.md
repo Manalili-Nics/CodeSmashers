@@ -18,6 +18,7 @@ According to the World Bank, global waste generation is expected to reach 3.4 bi
 
 
 
+
 💡 Our Solution's Impact
 SDG Target	How Our System Addresses It
 12.5: Substantially reduce waste generation through prevention, reduction, recycling and reuse	Enables households to track waste patterns, encouraging mindful consumption and waste reduction
