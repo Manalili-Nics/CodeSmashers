@@ -1,4 +1,4 @@
-# Smart Waste Management System - SDG 12: Responsible Consumption and Production
+# Smart Inventory/Waste Management System - SDG 12: Responsible Consumption and Production
 
 ## 📌 SDG 12 Justification
 SDG 12: Responsible Consumption and Production
